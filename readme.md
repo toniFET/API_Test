@@ -1,7 +1,7 @@
 # Fake API Project
 This is a copy of the projcet used in Udacitys Nanodegree "Front End Web Developer" (4. Web APA and Asaynchronous)
 
-## The Gol
+## The Goal
 I want to play around with it..
 
 ### Terminal
