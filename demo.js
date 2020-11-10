@@ -10,7 +10,7 @@ function performAction(e){
     //Fake API call
     getAnimal("/fakeAnimalData")
         .then(function(data){
-            postData("/addAnimal", {aniaml:data.animal, fact:data.fact, fav:fav})
+            postData("/addAnimal", {animal:data.animal, fact:data.fact, fav:fav})
 
             updateUI()
         })
