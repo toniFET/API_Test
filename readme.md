@@ -8,6 +8,7 @@ I want to play around with it..
 the server.js was started via terminal 
 
 #### File structure
+For whatever reason on Github all files are in the same folder (level), but the structure should be as follows:
 
 Folder (API Test)
 - Folder (website)
